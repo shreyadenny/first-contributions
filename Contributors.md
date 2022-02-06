@@ -47,7 +47,7 @@
 - Shubham Kanekal 
 - Binil Tom Jose(https://github.com/BinilTomJose1278)2
 - Olteanu Alin (https://github.com/alin1k)
-- Shreya Panengaden (https://github.com/shreyadenny)
+- Shreya Denny Panengaden (https://github.com/shreyadenny)
 - [Mario Medina] (https://github.com/Magic-Mario)
 - [Willamys Cleyton] (https://github.com/WillamysC)
 - Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
